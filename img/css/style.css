@@ -1,0 +1,130 @@
+.top{
+	background-image: url("../mount-everest.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: center center;
+  	height: 600px;
+  	width: auto;
+  	text-align: center;
+  	font-size: 80px;
+  	color: white;
+  	justify-content: center;
+  	padding-top: 300px;
+ }
+ .work{
+ 	align-items: center;
+ 	display: inline-block;
+	color: white;
+	border-radius: 12px;
+	padding: 5px;
+	font-weight: bold;
+	background-color: #0099ff;
+}
+.middle{
+	background-color: #0099ff;
+	height: 200px;
+	width: auto;
+	text-align: center;
+	padding: 40px;
+}
+h1{
+	color: white;
+	font-size: 36px;
+}
+p{
+	color: white;
+	font-size: 20px;
+}
+h2{
+	background-color: white;
+	color: #0099ff;
+	font-size: 36px;
+	text-align: center;
+}
+nav {
+	float: right;
+  	display: inline-block;
+  	padding-right: 20px;
+}
+li {
+  display: inline;
+  color: white;
+  margin: 10px;
+}
+ a {
+  text-decoration: none;
+  font-size: 24px;
+  color: white;
+  font-weight: bold;
+  margin: 0 20px;
+}
+button{
+	float: right;
+	padding: auto;
+	margin-right: 10px;
+	color: skyblue;
+	border-radius: 12px;
+	padding: 10px;
+	font-weight: bold;
+}
+img{
+	height: 400px;
+	width: 600px;
+}
+.pic{
+	display: grid;
+	grid-template-columns: repeat(auto-fit, 600px);
+	grid-template-rows: 400px 400px;
+	grid-gap: 50px;
+	padding: 70px;
+}
+.photo5{
+	grid-column: 1/2;
+}
+h3{
+	margin: 30px auto;
+	text-align: center;
+}
+.profile{
+	color: #0099ff;
+	text-align: center;
+}
+.girl-profile{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	display: block;
+	padding: 5px auto;
+	margin: 5px auto;
+	align-items: justify;
+}
+.into{
+	color:#0099ff;
+}
+caption{
+	color: #0099ff;
+}
+.bio{
+	color: #0099ff;
+	margin: 10px 400px;
+	line-height: 30px;
+	padding-bottom: 30px;
+}
+footer{
+	background-color: #0099ff;
+	height: 200px;
+	width: 100%;	
+}
+.info{
+	display:inline;
+	font-size: 24px;
+	padding:  50px 150px;
+}
+.text{
+	display: inline;
+	padding: 50px 140px;
+}
+
+
+
